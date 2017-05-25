@@ -1,0 +1,11 @@
+[t3]
+FileName1=t3_gen_204.htm
+URL1=https://www.google.co.uk/gen_204?atyp=i&ct=3&cad=i&ogsr=1&id=19001252&ic=1&ogd=google.co.uk&ogprm=up&ved=0ahUKEwjH457m1NbQAhXDE5oKHUIJBZsQnIcBCAU&ei=sANCWMfLDcOn6ATCkpTYCQ&zx=1480721345098
+Total=1
+ContentType=text/html
+SnapshotXmlFile=snapshot_3.xml
+RequestHeaderFile=t3_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t3_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

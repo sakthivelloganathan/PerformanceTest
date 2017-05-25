@@ -1,0 +1,18 @@
+[t1]
+FileName2=t1_1_Chrome_Owned_96x96.png
+RawStepEndTime=1495651872200
+RequestBodyFile=t1_RequestBody.txt
+RawStepName=www.google.com
+ContentType=text/html
+URL1=https://www.google.co.uk/?gfe_rd=cr&ei=HNYlWfbeJMuT8QfwqL7YBg&gws_rd=ssl
+URL2=https://www.google.co.uk/images/hpp/Chrome_Owned_96x96.png
+URL3=https://www.google.co.uk/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png
+ResponseHeaderFile=t1_ResponseHeader.txt
+SnapshotXmlFile=snapshot_1.xml
+RequestHeaderFile=t1_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1495651869545
+Total=3
+StepName=Url: www.google.com
+FileName1=t1.html
+FileName3=t1_0_googlelogo_color_120x44dp.png

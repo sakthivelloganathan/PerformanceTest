@@ -1,0 +1,30 @@
+Virtual User Script started at : 24/05/2017 07:51:09 PM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.53.0 for Windows 7; build 1203 (May 24 2017 19:13:20)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko  	[MsgId: MMSG-26988]
+Run-Time Settings file: "C:\Jmeter\google\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(4): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(4): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(6): Notify: Transaction "HomePage" started.
+Action.c(8): web_url("www.google.com") started  	[MsgId: MMSG-26355]
+Action.c(8): Redirecting "http://www.google.com/" (redirection depth is 0)  	[MsgId: MMSG-26694]
+Action.c(8): To location "http://www.google.co.uk/?gfe_rd=cr&ei=HNYlWfbeJMuT8QfwqL7YBg"  	[MsgId: MMSG-26693]
+Action.c(8): Redirecting "http://www.google.co.uk/?gfe_rd=cr&ei=HNYlWfbeJMuT8QfwqL7YBg" (redirection depth is 1)  	[MsgId: MMSG-26694]
+Action.c(8): To location "https://www.google.co.uk/?gfe_rd=cr&ei=HNYlWfbeJMuT8QfwqL7YBg&gws_rd=ssl"  	[MsgId: MMSG-26693]
+Action.c(8): Found resource "https://www.google.co.uk/images/hpp/Chrome_Owned_96x96.png" in HTML "https://www.google.co.uk/?gfe_rd=cr&ei=HNYlWfbeJMuT8QfwqL7YBg&gws_rd=ssl"  	[MsgId: MMSG-26659]
+Action.c(8): Found resource "https://www.google.co.uk/images/branding/googlelogo/2x/googlelogo_color_120x44dp.png" in HTML "https://www.google.co.uk/?gfe_rd=cr&ei=HNYlWfbeJMuT8QfwqL7YBg&gws_rd=ssl"  	[MsgId: MMSG-26659]
+Action.c(8): Found resource "https://consent.google.com/status?continue=https://www.google.co.uk&pc=s&timestamp=1495651870" in HTML "https://www.google.co.uk/?gfe_rd=cr&ei=HNYlWfbeJMuT8QfwqL7YBg&gws_rd=ssl"  	[MsgId: MMSG-26659]
+Action.c(8): web_url("www.google.com") was successful, 78868 body bytes, 3369 header bytes, 699 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(22): Notify: Transaction "HomePage" ended with a "Pass" status (Duration: 2.6580 Wasted Time: 1.2185).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

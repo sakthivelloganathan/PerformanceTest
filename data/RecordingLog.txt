@@ -1,0 +1,297 @@
+[API Trapper      (1858:1b28)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\iexplore.exe
+[API Trapper      (18e8:1b88)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      (2074:1bd8)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer (2074:200c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2074:200c)] Load Network Traffic Analyzers:
+[Network Analyzer (2074:200c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (2074:200c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (2074:200c)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (2074:200c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (2074:200c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (2074:200c)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (2074:200c)]     Analyzer Module: local_server (value=)
+[Network Analyzer (2074:200c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2074:231c)] Address lookup for patricia-PC = 192.168.0.5
+[Network Analyzer (2074:200c)] Address lookup for patricia-PC = 192.168.0.5
+[Network Analyzer (2074:2008)] Address lookup for patricia-PC = 192.168.0.5
+[Network Analyzer (2074:2008)] Request Connection: Remote Server @ 62.253.72.157:80   (Service=)  (Sid=  1)  PROXIED!
+[Web Request      (2074:231c)] "GET /"   
+[Network Analyzer (2074:231c)]   (Sid:  1) Client -> Server @ : 257 bytes (Service=HTTP)
+[Network Analyzer (2074:200c)] Request Connection: Remote Server @ 62.253.72.157:80   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (2074:231c)]   (Sid:  1) Server -> Client : 477 bytes  (Service=HTTP)
+[Network Analyzer (2074:2008)] Address lookup for patricia-PC = 192.168.0.5
+[Network Analyzer (2074:200c)] Address lookup for patricia-PC = 192.168.0.5
+[Network Analyzer (2074:200c)] Request Connection: Remote Server @ 216.58.198.163:80   (Service=)  (Sid=  3)  PROXIED!
+[Web Request      (2074:231c)] "GET /?gfe_rd=cr&ei=nQNCWP2cNqan8wf41YHoAQ"   
+[Network Analyzer (2074:231c)]   (Sid:  3) Client -> Server @ : 295 bytes (Service=HTTP)
+[Network Analyzer (2074:2008)] Request Connection: Remote Server @ 216.58.198.163:80   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (2074:231c)]   (Sid:  3) Server -> Client : 1024 bytes  (Service=HTTP)
+[Network Analyzer (2074:2008)] Address lookup for patricia-PC = 192.168.0.5
+[Network Analyzer (2074:2008)] Request Connection: Remote Server @ 216.58.198.163:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (2074:1b94)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (18e8:21bc)] ------------------------------------------------------------------------------------------
+[Network Analyzer (18e8:21bc)] Load Network Traffic Analyzers:
+[Network Analyzer (18e8:21bc)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (18e8:21bc)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (18e8:21bc)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (18e8:21bc)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (18e8:21bc)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (18e8:21bc)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (18e8:21bc)]     Analyzer Module: local_server (value=)
+[Network Analyzer (18e8:21bc)] ------------------------------------------------------------------------------------------
+[Network Analyzer (18e8:1b04)] Address lookup for patricia-PC = 192.168.0.5
+[Network Analyzer (2074:1b94)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2074: 9d4)] Address lookup for patricia-PC = 192.168.0.5
+[Network Analyzer (18e8:2304)] Address lookup for patricia-PC = 192.168.0.5
+[Network Analyzer (18e8:21bc)] Address lookup for patricia-PC = 192.168.0.5
+[Network Analyzer (18e8:2304)] Request Connection: Remote Server @ 204.79.197.200:80   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (2074: 9d4)] Request Connection: Remote Server @ 216.58.214.14:80   (Service=)  (Sid=  6)  PROXIED!
+[Web Request      (18e8:1b04)] "GET /favicon.ico"   
+[Network Analyzer (18e8:1b04)]   (Sid:  1) Client -> Server @ : 228 bytes (Service=HTTP)
+[Network Analyzer (18e8:21bc)] Request Connection: Remote Server @ 204.79.197.200:80   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (18e8:1b04)]   (Sid:  1) Server -> Client : 542 bytes  (Service=HTTP)
+[Network Analyzer (2074: ec4)] Address lookup for patricia-PC = 192.168.0.5
+[Network Analyzer (2074: ec4)] Request Connection: Remote Server @ 216.58.204.78:80   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (2074:2008)] Address lookup for patricia-PC = 192.168.0.5
+[Network Analyzer (2074:2008)] Request Connection: Remote Server @ 216.58.198.163:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (2074:1874)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2074:1874)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Web Request      (2074:231c)] "GET /?gfe_rd=cr&ei=nQNCWP2cNqan8wf41YHoAQ&gws_rd=ssl"   
+[Network Analyzer (2074:231c)]   (Sid:  8) Client -> Server @ : 470 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 468 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1191 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1306 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1353 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 77 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 185 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 361 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 566 bytes (SSL) (Service=HTTP)
+[Web Request      (2074:231c)] "GET /images/icons/product/chrome-48.png"   
+[Network Analyzer (2074:231c)]   (Sid:  8) Client -> Server @ : 553 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2074:200c)] Address lookup for patricia-PC = 192.168.0.5
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 816 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:200c)] Request Connection: Remote Server @ 216.58.198.163:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (2074: ec4)] Address lookup for patricia-PC = 192.168.0.5
+[Network Analyzer (2074:20d0)] Address lookup for patricia-PC = 192.168.0.5
+[Network Analyzer (2074: ec4)] Request Connection: Remote Server @ 216.58.210.46:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (2074:20d0)] Request Connection: Remote Server @ 216.58.210.46:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (2074:1390)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Web Request      (2074:231c)] "GET /images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"   
+[Network Analyzer (2074:231c)]   (Sid:  8) Client -> Server @ : 578 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2074:1390)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2074:18f8)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Web Request      (2074:231c)] "GET /images/branding/googlelogo/2x/googlelogo_color_120x44dp.png"   
+[Network Analyzer (2074: ec4)] Address lookup for patricia-PC = 192.168.0.5
+[Network Analyzer (2074:231c)]   (Sid:  9) Client -> Server @ : 578 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2074:200c)] Address lookup for patricia-PC = 192.168.0.5
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 780 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1285 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:1fb4)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2074:18f8)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2074: ec4)] Request Connection: Remote Server @ 216.58.204.67:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (2074:1fb4)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2074:200c)] Request Connection: Remote Server @ 216.58.204.67:443   (Service=)  (Sid= 13)  PROXIED!
+[Web Request      (2074:231c)] "GET /xjs/_/js/k=xjs.s.en.Vg6AWzH1LfY.O/m=sx,c,sb,cdos,cr,elog,hsm,jsa,r,qsm,j,p,d,csi/am=AAiUdFrBAIi_h4C4hXQEqQADgw/rt=j/d=1/t=zcms/rs=ACT90oH5GNoKBgVKsB6DWcSb3h1YglD1iA"   
+[Network Analyzer (2074:231c)]   (Sid:  9) Client -> Server @ : 666 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074: ec4)] Address lookup for patricia-PC = 192.168.0.5
+[Network Analyzer (2074: 94c)] Address lookup for patricia-PC = 192.168.0.5
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:1fbc)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1307 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:200c)] Address lookup for patricia-PC = 192.168.0.5
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 867 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074: 94c)] Request Connection: Remote Server @ 216.58.201.35:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074: ec4)] Request Connection: Remote Server @ 216.58.201.35:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:1fbc)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:200c)] Request Connection: Remote Server @ 216.58.204.14:80   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:11a4)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 867 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 14 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:11a4)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2074:21a4)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-ECDSA-AES128-SHA)
+[Network Analyzer (2074:21a4)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2074:1f58)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:AES128-SHA)
+[Network Analyzer (2074: 94c)] Address lookup for patricia-PC = 192.168.0.5
+[Web Request      (2074:231c)] "GET /xjs/_/js/k=xjs.s.en.Vg6AWzH1LfY.O/m=sy42,sy53,em3,em1,em2,sy55,em0,sy328,aa,abd,sy80,sy79,sy78,sy81,em15,async,erh,sy83,foot,fpe,idck,ipv6,sy150,sy183,lu,m,sf,vm,sy51,sy52,sy376,mids,sy43,sy103,sy44,sy46,sy102,sy160,sy45,sy47,sy162,em8,em9,sy41,sy104,sy159,sy161,sy163,cbin,sy399,dgm,cbhb/am=AAiUdFrBAIi_h4C4hXQEqQADgw/rt=j/d=0/t=zcms/rs=ACT90oH5GNoKBgVKsB6DWcSb3h1YglD1iA"   
+[Network Analyzer (2074:231c)]   (Sid:  9) Client -> Server @ : 874 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2074:1f58)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)
+[Network Analyzer (2074: 94c)] Request Connection: Remote Server @ 62.253.72.157:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 1387 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 465 bytes (SSL) (Service=HTTP)
+[Web Request      (2074:231c)] "GET /gen_204?atyp=i&ct=3&cad=i&ogsr=1&id=19001252&ic=1&ogd=google.co.uk&ogprm=up&ved=0ahUKEwjH457m1NbQAhXDE5oKHUIJBZsQnIcBCAU&ei=sANCWMfLDcOn6ATCkpTYCQ&zx=1480721345098"   
+[Network Analyzer (2074:231c)]   (Sid:  9) Client -> Server @ : 701 bytes (SSL)(Service=HTTP)
+[Web Request      (2074:231c)] "GET /gen_204?atyp=i&ct=&cad=&vet=10ahUKEwjH457m1NbQAhXDE5oKHUIJBZsQsmQIDQ..s&ei=sANCWMfLDcOn6ATCkpTYCQ&zx=1480721345103"   
+[Network Analyzer (2074:231c)]   (Sid:  8) Client -> Server @ : 652 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2074:1c7c)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES128-SHA)
+[Network Analyzer (2074:231c)]   (Sid:  9) Server -> Client : 246 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:231c)]   (Sid:  8) Server -> Client : 246 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2074:1c7c)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-SHA384)

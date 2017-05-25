@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Wed, 24 May 2017 18:51:10 GMT
+Expires: -1
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=UTF-8
+P3P: CP="This is not a P3P policy! See https://www.google.com/support/accounts/answer/151657?hl=en for more info."
+Content-Encoding: gzip
+Server: gws
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: NID=104=BHfN7VWXF3l4ID2iC8HQMKglmdg4D-yqNsW7JnyqNTn4PaP8IUi4_l5Jb1arT5OLFNhrWYPX30H0C7E38LFcBXdbBvs9dnJ1V9FrtbpGC30xhb7Pl-Wxb_SfvcH2ihK-; expires=Thu, 23-Nov-2017 18:51:10 GMT; path=/; domain=.google.co.uk; HttpOnly
+Alt-Svc: quic=":443"; ma=2592000; v="38,37,36,35"
+Transfer-Encoding: chunked
+

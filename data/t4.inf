@@ -1,0 +1,11 @@
+[t4]
+FileName1=t4_gen_204.htm
+URL1=https://www.google.co.uk/gen_204?atyp=i&ct=&cad=&vet=10ahUKEwjH457m1NbQAhXDE5oKHUIJBZsQsmQIDQ..s&ei=sANCWMfLDcOn6ATCkpTYCQ&zx=1480721345103
+Total=1
+ContentType=text/html
+SnapshotXmlFile=snapshot_4.xml
+RequestHeaderFile=t4_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t4_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
